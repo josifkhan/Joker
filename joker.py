@@ -1,1 +1,1 @@
-import reg
+import test
